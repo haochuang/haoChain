@@ -19,3 +19,6 @@ some books about block chain for reading.
 --------
 
 * [区块链理论学习入门指南](https://daimajia.com/2017/08/24/how-to-start-blockchain-learning)
+
+* [区块链的来龙去脉](https://daimajia.com/category/%E5%8C%BA%E5%9D%97%E9%93%BE)
+
